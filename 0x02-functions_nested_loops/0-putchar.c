@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print_putchar
+ * main - Entry point
  *
  * Description: Prints "_putchar"
  *
